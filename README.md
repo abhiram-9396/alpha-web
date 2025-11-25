@@ -1,11 +1,20 @@
-# Sanity Blogging Content Studio
+# Project Overview
 
-Congratulations, you have now installed the Sanity Content Studio, an open-source real-time content editing environment connected to the Sanity backend.
+This project is a web application designed to demonstrate the integration and functionality of various components. It provides an interactive user experience, showcasing modern web development practices and efficient data handling.
 
-Now you can do the following things:
+## Technologies Used
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- Check out the example frontend: [React/Next.js](https://github.com/sanity-io/tutorial-sanity-blog-react-next)
-- [Read the blog post about this template](https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js?utm_source=readme)
-- [Join the Sanity community](https://www.sanity.io/community/join?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+- Next.js
+- Sanity
+- TypeScript
+- Tailwind CSS
+
+## Features
+
+- Interactive user interface
+- Real-time data fetching
+- Efficient data handling
+
+## Getting Started
+
+- [Try it out here](https://alpha-h7512wat0-abhiram-9396s-projects.vercel.app/)
